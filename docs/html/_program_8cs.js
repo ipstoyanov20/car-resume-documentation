@@ -1,0 +1,28 @@
+var _program_8cs =
+[
+    [ "AddAuthentication", "_program_8cs.html#aa55cf0fb58eefec93f7cb32e3ac551e8", null ],
+    [ "AddAutoMapper", "_program_8cs.html#aee5382f312f45415dd72f12f5167b1ed", null ],
+    [ "AddControllers", "_program_8cs.html#abc3694a0e15618f2499e5a540264f833", null ],
+    [ "AddCors", "_program_8cs.html#aa76235ca6c788f40c75ce14eaf0e5974", null ],
+    [ "AddDbContext< ApplicationDbContext >", "_program_8cs.html#a814f3edc4b4c6c520ccb24adbd83c5f7", null ],
+    [ "AddEndpointsApiExplorer", "_program_8cs.html#a0d7859f9cad50e8e9fdf015100780e07", null ],
+    [ "AddHttpContextAccessor", "_program_8cs.html#a0651b1cc6b2ec2a500b3fbaaaba6ac6c", null ],
+    [ "AddIdentity< User, IdentityRole >", "_program_8cs.html#a544e15d1320def657633f9690a8291a2", null ],
+    [ "AddLogging", "_program_8cs.html#aa669ddb643f3da43b96371dc741fd2ed", null ],
+    [ "AddServices", "_program_8cs.html#a10d65c185653ba3bc65afe327b634737", null ],
+    [ "AddSwagger", "_program_8cs.html#af17fd8d5a80105be7550d0c4483d1c23", null ],
+    [ "if", "_program_8cs.html#a79a944c7f0e25196ca3c5a8638b919b9", null ],
+    [ "InitAppAsync", "_program_8cs.html#a7f88819a0ce97c293f39802aba5c7fa8", null ],
+    [ "LogInformation", "_program_8cs.html#af32af22acb31a224b07f8de039e970dd", null ],
+    [ "MapControllers", "_program_8cs.html#a9e2ee3170aa6279b68eefd1651f7d96c", null ],
+    [ "RegisterLicense", "_program_8cs.html#a091a9271aad89bb1dee445fbfc65d239", null ],
+    [ "Run", "_program_8cs.html#aaa3dbf02e269c3ef7e8546d290c6b3dd", null ],
+    [ "UseAuthentication", "_program_8cs.html#a6435d8beeff4999dc0b0c6d60a86a4e2", null ],
+    [ "UseAuthorization", "_program_8cs.html#af6f72d752b2e73aa0292f74bd13237ab", null ],
+    [ "UseCors", "_program_8cs.html#a0a7b080f8fbf578227b41f824d2bcec5", null ],
+    [ "UseSwagger", "_program_8cs.html#a9a5cfe7fee09f478241b98af703affea", null ],
+    [ "app", "_program_8cs.html#a7b225fcb720e4d5ed2bbf60e28a25e6d", null ],
+    [ "builder", "_program_8cs.html#a2f78352277081c620fd4cf92a5ce15e5", null ],
+    [ "configuration", "_program_8cs.html#a1c05573df94c1c7e9a635ed02e41281e", null ],
+    [ "else", "_program_8cs.html#a0544c3fe466e421738dae463968b70ba", null ]
+];

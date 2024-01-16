@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['description_0',['description',['../class_o_r_b_1_1_data_1_1_models_1_1_resumes_1_1_car_info.html#a5c61ab21db4a747d434918d539beae2d',1,'ORB.Data.Models.Resumes.CarInfo.Description'],['../class_o_r_b_1_1_shared_1_1_models_1_1_car_info_1_1_car_info_i_m.html#af315300a237121b6c728bda9a9c95954',1,'ORB.Shared.Models.CarInfo.CarInfoIM.Description'],['../class_o_r_b_1_1_shared_1_1_models_1_1_car_info_1_1_car_info_v_m.html#a28f6741e52d8a0764a650b0406996bbb',1,'ORB.Shared.Models.CarInfo.CarInfoVM.Description']]],
+  ['distance_1',['distance',['../class_o_r_b_1_1_data_1_1_models_1_1_resumes_1_1_car_info.html#a49c6d9125fb40acd5c322df0215339c7',1,'ORB.Data.Models.Resumes.CarInfo.Distance'],['../class_o_r_b_1_1_shared_1_1_models_1_1_car_info_1_1_car_info_i_m.html#aeb43f5c208228a2db69f28502802f12b',1,'ORB.Shared.Models.CarInfo.CarInfoIM.Distance'],['../class_o_r_b_1_1_shared_1_1_models_1_1_car_info_1_1_car_info_v_m.html#ad3153ae383b6ef30c2e4c9c90f6b9b4f',1,'ORB.Shared.Models.CarInfo.CarInfoVM.Distance']]]
+];
